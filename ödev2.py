@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-# Kamera başlatma
+# Kamera başlatm
 cap = cv2.VideoCapture(0)
 
 while True:
